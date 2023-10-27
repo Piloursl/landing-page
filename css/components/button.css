@@ -1,0 +1,12 @@
+.btn-red {
+  background-color: #900C3F;
+  padding: 10px 15px;
+  border-radius: 15px;
+  color: white;
+  font-size: 22px;
+  font-family: "Lora";
+}
+
+.btn-red:hover {
+  opacity: 0.7;
+}
